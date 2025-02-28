@@ -1,4 +1,6 @@
-## Hi there 👋
+![lv_0_20250228224502](https://github.com/user-attachments/assets/3ee6c8ba-0b8f-4a14-b4e9-b0f752e52303)
+
+
 
 <!--
 **victor-morrison/victor-morrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
